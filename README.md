@@ -2,6 +2,10 @@
 
 [Heroku](https://jp.heroku.com/) で Discord bot を動かしたい場合のサンプルです。
 
+<p align="center">
+    <img src="./screenshot_for_readme.png" alt="Discord bot sample" width="auto" height="420rem">
+</p>
+
 
 ## 1. .env の編集
 
