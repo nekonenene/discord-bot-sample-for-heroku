@@ -1,6 +1,8 @@
 # Discord bot for Heroku
 
-[Heroku](https://jp.heroku.com/) で Discord bot を動かしたい場合のサンプルです。
+**[Heroku](https://jp.heroku.com)** で **[Discord](https://discordapp.com) bot** を動かしたい場合のサンプルです。
+
+[こちらのブログ記事](http://nekonenene.hatenablog.com/entry/2018/07/19/061201) で Discord bot の作り方を説明した際の資料のひとつです。
 
 <p align="center">
     <img src="./screenshot_for_readme.png" alt="Discord bot sample" width="auto" height="420rem">
