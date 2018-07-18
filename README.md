@@ -12,6 +12,12 @@
 `.env` ファイルの **BOT_CLIENT_ID** および **BOT_TOKEN** の値を適切なものに変更します。  
 少なくともそれらの値を設定しないと動きません。
 
+なお、他の API Key の取得場所について記しておきます。
+
+* RSS2JSON_API_KEY : https://rss2json.com
+* RECRUIT_API_KEY : https://webservice.recruit.co.jp/register/index.html
+* CUSTOM_SEARCH_ENGINE_ID, CUSTOM_SEARCH_API_KEY : https://developers.google.com/custom-search/json-api/v1/overview
+
 
 ## 2. Heroku へのアップロード
 
